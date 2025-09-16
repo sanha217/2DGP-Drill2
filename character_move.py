@@ -44,7 +44,6 @@ def move_rectangle():
         update_canvas()
         x += 2
         delay(0.01)
-    pass
 
 def move_circle():
     for i in range(360, -1, -1):
